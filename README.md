@@ -11,46 +11,6 @@ Source images are licensed for commercial and non-commercial use at the time of 
 * [Pixabay](https://pixabay.com) ([license](https://pixabay.com/service/terms/#license))
 * [Unsplash](https://unsplash.com) ([license](https://unsplash.com/license))
 
-### Tier 1
-
-| File type | Category | Size | ID range | Count / target | Usage |
-|---|---|---|---|---|---|
-| JPG | Photo | xs | 100 - 109 | – / 10 | – |
-| JPG | Photo | sm | 110 - 119 | – / 10 | – |
-| JPG | Photo | md | 120 - 129 | – / 10 | – |
-| JPG | Photo | lg | 130 - 139 | – / 10 | – |
-| JPG | Photo | xl | 140 - 149 | – / 10 | – |
-
-### Tier 2
-
-| File type | Category | Size | ID range | Count / target | Usage |
-|---|---|---|---|---|---|
-| JPG | Photo | xs | 1000 - 1049 | – / 50 | – |
-| JPG | Photo | sm | 1050 - 1099 | – / 50 | – |
-| JPG | Photo | md | 1100 - 1149 | – / 50 | – |
-| JPG | Photo | lg | 1150 - 1199 | – / 50 | – |
-| JPG | Photo | xl | 1200 - 1249 | – / 50 | – |
-
-### Tier 3
-
-| File type | Category | Size | ID range | Count / target | Usage |
-|---|---|---|---|---|---|
-| JPG | Photo | xs | 1000 - 1249 | – / 250 | – |
-| JPG | Photo | sm | 1250 - 1499 | – / 250 | – |
-| JPG | Photo | md | 1500 - 1749 | – / 250 | – |
-| JPG | Photo | lg | 1750 - 1999 | – / 250 | – |
-| JPG | Photo | xl | 2000 - 2249 | – / 250 | – |
-
-### Tier 4
-
-| File type | Category | Size | ID range | Count / target | Usage |
-|---|---|---|---|---|---|
-| JPG | Photo | xs | 1000 - 1499 | – / 500 | – |
-| JPG | Photo | sm | 1500 - 1999 | – / 500 | – |
-| JPG | Photo | md | 2000 - 2499 | – / 500 | – |
-| JPG | Photo | lg | 2500 - 2999 | – / 500 | – |
-| JPG | Photo | xl | 3000 - 3499 | – / 500 | – |
-
 ### Raster image specifications
 
 | Size | Type | Scale factor | Long edge |
