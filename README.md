@@ -9,6 +9,7 @@ Source images are licensed for commercial and non-commercial use at the time of 
 * [Burst](https://burst.shopify.com) ([licence](https://burst.shopify.com/legal/terms))
 * [Pexels](https://www.pexels.com) ([license](https://www.pexels.com/photo-license/))
 * [Pixabay](https://pixabay.com) ([license](https://pixabay.com/service/terms/#license))
+* [StockSnap](https://stocksnap.io) ([license](https://stocksnap.io/license))
 * [Unsplash](https://unsplash.com) ([license](https://unsplash.com/license))
 
 ### Raster image specifications
